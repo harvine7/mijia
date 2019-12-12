@@ -1,0 +1,139 @@
+Scrum Master : Harvine Konga 
+29/11/2019
+Daily Scrum : 
+Harvine Konga
+- Upload template ke github
+- Test Commit Pertama
+- Ganti Judul Presentasi
+-Tambah nama kelompok, ganti background, tambah slide fitur
+
+Andri Winanda : 
+- Ganti Judul dan Gambar
+
+Mega Catur: 
+-Buat Deskripsi
+
+
+02/12/2019
+Daily Scrum: 
+- Harvine Konga : 
+  Tidak bisa ngepush karna kerja
+
+- Mega Catur : 
+  Edit Nama Kelompok
+
+- Andri Winanda:
+  Tidak Push karna batre soak(digantikan 7 Desember)
+
+
+03/12/2019
+Daily Scrum : 
+- Harvine Konga : 
+  Tambah perbandingan yale dengan produk lainnya
+   Perbaikan fitur dan tambah gambar pada fitur dan mengubah deskripsi
+   Edit Fitur
+
+
+- Mega Catur : 
+   Perubahan
+
+- Andri Winanda
+Tidak push karena batre soak (digantikan 8 Desember)
+
+Scrum Master :  
+04/12/2019
+Daily Scrum : 
+- Harvine Konga : 
+  Tidak bisa ngepush karna kerja
+  Tambah spesifikasi
+
+- Mega Catur : 
+   
+- Andri Winanda
+  Mengubah deskripsi 
+
+05/12/2019
+Daily Scrum : 
+- Harvine Konga : 
+  Edit deskripsi
+
+
+- Mega Catur
+  Spesifikasi Produk
+
+- Andri Winanda
+  Buat section baru
+  Edit nama Anggota Tim
+
+06/12/2019
+Daily  Scrum 
+- Harvine Konga : 
+  Tambah fitur , Edit tampilan deskripsi
+  Edit fitur dan tambah kelebihan dan kekurangan
+
+-  Tambah Fungsi
+
+- Mega Catur
+   Fitur Utama Aplikasi
+
+- Andri Winanda
+  Edit Fitur
+
+07/12/2019
+Andri Winanda
+penambahan video
+ubah background
+
+08/12/2019
+Andri Winanda
+Ubah deskripsi
+Ubah gambar
+
+Scrum Master : Andri Winanda
+09/12/2019
+Daily  Scrum 
+- Harvine Konga
+  Tambah video dan edit tampilan slide
+
+-  
+
+- Mega Catur
+  Video cara menginstal
+
+- Andri Winanda
+  Create logbook.txt
+
+
+10/12/2019
+Daily  Scrum 
+- Harvine Konga
+  Edit tampilan
+
+-  
+  Tambah kelebihan yale
+
+- Mega Catur
+  Perbaikan video
+  The Yale Conexis App
+
+- Andri Winanda
+  Change logbook (yang tgl 9)
+  Update index
+
+
+11/12/2019
+Daily  Scrum 
+- Harvine Konga
+  
+
+-  
+  Add Fitur
+
+- Mega Catur
+  Catatan
+
+- Andri Winanda
+  Update index (yang tgl 10)
+
+
+12/12/2019
